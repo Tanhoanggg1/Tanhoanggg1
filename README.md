@@ -8,3 +8,4 @@
 Tanhoanggg1/Tanhoanggg1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Hi,As above, I have introduced to you my name Hoang is a student, I hope you will support me, thank you very much.
